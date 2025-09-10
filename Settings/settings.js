@@ -1,22 +1,22 @@
 const fs = require('fs')
 
 //~~~~~~~~~~~ Settings Owner ~~~~~~~~~~~//
-global.owner = "263780145644"
-global.developer = "263780145644"
+global.owner = "2347078389784"
+global.developer = "2347078389784"
 global.bot = ""
-global.devname = "Snowbird"
-global.ownername = "Snowbird"
-global.botname = "Lady bella"
+global.devname = "Fyt"
+global.ownername = "FYT"
+global.botname = "FYT MD"
 global.versisc = "2"
-global.packname = "⎋Lady bella"
+global.packname = "⎋FYT MD"
 //~~~~~~~~~~~ Settings Sosmed ~~~~~~~~~~~//
-global.linkwa = "https://wa.me/263780145644"
-global.linkyt = "https://www.youtube.com/@lukepraise"
+global.linkwa = "https://wa.me/2347078389784"
+global.linkyt = "https://"
 global.linktt = "https://tiktok.com"
 global.linktele = "https://t.me"
 
 //~~~~~~~~~~~ Settings Bot ~~~~~~~~~~~//
-global.prefix = ["","!",".",",","#","/","🎭","〽️"]
+global.prefix = ["","!",".",","/"#","/","🎭","〽️"]
 global.autoRecording = false
 global.autoTyping = true
 global.autorecordtype = false
@@ -31,9 +31,9 @@ global.thumbbot = "https://url.bwmxmd.online/Adams.poh4tuhs.jpg"
 global.thumbown = "https://url.bwmxmd.online/Adams.poh4tuhs.jpg"
 
 //~~~~~~~~~~~ Settings Channel ~~~~~~~~~~~//
-global.idchannel = "120363399707841760@newsletter*"
-global.channelname = "ーLady Bella UPDATES"
-global.channel = "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C"
+global.idchannel = ""
+global.channelname = "ーFYT MD"
+global.channel = "https:https://whatsapp.com/channel/0029Vb6dOl947XeDfU5RLv2m"
 
 //~~~~~~~~~~~ Settings Message ~~~~~~~~~~~//
 global.mess = {
